@@ -1,0 +1,13 @@
+{
+  "auth": {
+    "robustworkoutappaaf3854d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {},
+  "function": {},
+  "api": {}
+}

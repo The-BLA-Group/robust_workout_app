@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-robustworkoutapp-dev-123156-authRole",
+      "UnauthRoleArn": "arn:aws:iam::791748809411:role/amplify-robustworkoutapp-dev-123156-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::791748809411:role/amplify-robustworkoutapp-dev-123156-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-robustworkoutapp-dev-123156-deployment",
+      "UnauthRoleName": "amplify-robustworkoutapp-dev-123156-unauthRole",
+      "StackName": "amplify-robustworkoutapp-dev-123156",
+      "StackId": "arn:aws:cloudformation:us-west-2:791748809411:stack/amplify-robustworkoutapp-dev-123156/b31c4940-6595-11eb-b23b-0ac432390271",
+      "AmplifyAppId": "d2941aikjlpirf"
+    },
+    "categories": {
+      "auth": {
+        "robustworkoutappaaf3854d": {}
+      }
+    }
+  }
+}
